@@ -32,4 +32,9 @@ public class KockodlakTest {
         Assertions.assertEquals(Byte.MAX_VALUE, Byte.MAX_VALUE);
     }
     
+        @org.junit.jupiter.api.Test
+    public void testSecti2() {
+        Assertions.assertEquals(Byte.MAX_VALUE, Byte.MAX_VALUE);
+    }
+    
 }
